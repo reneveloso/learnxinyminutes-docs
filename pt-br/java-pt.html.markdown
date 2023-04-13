@@ -510,7 +510,7 @@ class Cachorro extends Animal
     public void fazerSom()
     {
         System.out.println("Bark");
-        // idade = 30;    ==> ERRO!  idade é privada de Animal
+        // idade = 30;    
     }
 
     // NOTA: Você receberá um erro se usou a
